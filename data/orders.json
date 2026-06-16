@@ -1,0 +1,271 @@
+[
+  {
+    "id": "836df8de-9b51-4e6c-aeb3-5e8b60f56f2c",
+    "status": "draft",
+    "createdAt": "2026-06-16T03:07:31.088Z",
+    "updatedAt": "2026-06-16T03:07:31.088Z",
+    "customer": {
+      "fullName": "Daniel Jose Salazar Hernández",
+      "email": "danielsalazar1109@gmail.com",
+      "phone": "12366387673",
+      "addressLine1": "17 Erskine Lane",
+      "addressLine2": "512",
+      "city": "Victoria",
+      "region": "BC",
+      "postalCode": "V8Z 1R7",
+      "country": "CO"
+    },
+    "items": [
+      {
+        "slug": "ivory-medium-bag",
+        "name": "Ivory Wayuu Medium Bag",
+        "quantity": 1,
+        "unitAmountCOP": 62.16
+      }
+    ],
+    "currency": "cop",
+    "amountTotalCOP": 62.16
+  },
+  {
+    "id": "977dd266-c7f8-4290-a064-6be27361f8f7",
+    "status": "draft",
+    "createdAt": "2026-06-16T03:03:46.865Z",
+    "updatedAt": "2026-06-16T03:03:46.865Z",
+    "customer": {
+      "fullName": "Daniel Jose Salazar Hernández",
+      "email": "danielsalazar1109@gmail.com",
+      "phone": "12366387673",
+      "addressLine1": "17 Erskine Lane",
+      "addressLine2": "512",
+      "city": "Victoria",
+      "region": "BC",
+      "postalCode": "V8Z 1R7",
+      "country": "CO"
+    },
+    "items": [
+      {
+        "slug": "ivory-medium-bag",
+        "name": "Ivory Wayuu Medium Bag",
+        "quantity": 1,
+        "unitAmountCOP": 62.16
+      }
+    ],
+    "currency": "cop",
+    "amountTotalCOP": 62.16
+  },
+  {
+    "id": "cc19774a-1b53-4c04-a00e-be73d1c59f9c",
+    "status": "draft",
+    "createdAt": "2026-06-16T03:02:05.799Z",
+    "updatedAt": "2026-06-16T03:02:05.799Z",
+    "customer": {
+      "fullName": "Daniel Jose Salazar Hernández",
+      "email": "danielsalazar1109@gmail.com",
+      "phone": "12366387673",
+      "addressLine1": "17 Erskine Lane",
+      "addressLine2": "512",
+      "city": "Victoria",
+      "region": "BC",
+      "postalCode": "V8Z 1R7",
+      "country": "CO"
+    },
+    "items": [
+      {
+        "slug": "ivory-medium-bag",
+        "name": "Ivory Wayuu Medium Bag",
+        "quantity": 1,
+        "unitAmountCOP": 62.16
+      }
+    ],
+    "currency": "cop",
+    "amountTotalCOP": 62.16
+  },
+  {
+    "id": "0e7481ce-4ba4-46f4-9de6-1accba402c34",
+    "status": "draft",
+    "createdAt": "2026-06-16T03:01:56.169Z",
+    "updatedAt": "2026-06-16T03:01:56.169Z",
+    "customer": {
+      "fullName": "Daniel Jose Salazar Hernández",
+      "email": "danielsalazar1109@gmail.com",
+      "phone": "12366387673",
+      "addressLine1": "17 Erskine Lane",
+      "addressLine2": "512",
+      "city": "Victoria",
+      "region": "BC",
+      "postalCode": "V8Z 1R7",
+      "country": "CO"
+    },
+    "items": [
+      {
+        "slug": "ivory-medium-bag",
+        "name": "Ivory Wayuu Medium Bag",
+        "quantity": 1,
+        "unitAmountCOP": 62.16
+      }
+    ],
+    "currency": "cop",
+    "amountTotalCOP": 62.16
+  },
+  {
+    "id": "44ee5904-e266-4d98-ac1c-a4a7b33f5dfb",
+    "status": "draft",
+    "createdAt": "2026-06-16T03:01:54.773Z",
+    "updatedAt": "2026-06-16T03:01:54.773Z",
+    "customer": {
+      "fullName": "Daniel Jose Salazar Hernández",
+      "email": "danielsalazar1109@gmail.com",
+      "phone": "12366387673",
+      "addressLine1": "17 Erskine Lane",
+      "addressLine2": "512",
+      "city": "Victoria",
+      "region": "BC",
+      "postalCode": "V8Z 1R7",
+      "country": "CO"
+    },
+    "items": [
+      {
+        "slug": "ivory-medium-bag",
+        "name": "Ivory Wayuu Medium Bag",
+        "quantity": 1,
+        "unitAmountCOP": 62.16
+      }
+    ],
+    "currency": "cop",
+    "amountTotalCOP": 62.16
+  },
+  {
+    "id": "bb518e22-e987-4236-86eb-b76f8ee1fffc",
+    "status": "draft",
+    "createdAt": "2026-06-16T03:01:53.106Z",
+    "updatedAt": "2026-06-16T03:01:53.106Z",
+    "customer": {
+      "fullName": "Daniel Jose Salazar Hernández",
+      "email": "danielsalazar1109@gmail.com",
+      "phone": "12366387673",
+      "addressLine1": "17 Erskine Lane",
+      "addressLine2": "512",
+      "city": "Victoria",
+      "region": "BC",
+      "postalCode": "V8Z 1R7",
+      "country": "CO"
+    },
+    "items": [
+      {
+        "slug": "ivory-medium-bag",
+        "name": "Ivory Wayuu Medium Bag",
+        "quantity": 1,
+        "unitAmountCOP": 62.16
+      }
+    ],
+    "currency": "cop",
+    "amountTotalCOP": 62.16
+  },
+  {
+    "id": "b2f4735a-0439-467c-a909-96dc443c8f5f",
+    "status": "draft",
+    "createdAt": "2026-06-16T02:57:44.995Z",
+    "updatedAt": "2026-06-16T02:57:44.995Z",
+    "customer": {
+      "fullName": "Daniel Jose Salazar Hernández",
+      "email": "danielsalazar1109@gmail.com",
+      "phone": "12366387673",
+      "addressLine1": "17 Erskine Lane",
+      "addressLine2": "516",
+      "city": "Victoria",
+      "region": "BC",
+      "postalCode": "V8Z 1R7",
+      "country": "CO"
+    },
+    "items": [
+      {
+        "slug": "ivory-medium-bag",
+        "name": "Ivory Wayuu Medium Bag",
+        "quantity": 1,
+        "unitAmountCOP": 62.16
+      }
+    ],
+    "currency": "cop",
+    "amountTotalCOP": 62.16
+  },
+  {
+    "id": "8d461661-c4fb-4368-85e2-62879c0d8fef",
+    "status": "draft",
+    "createdAt": "2026-06-16T02:57:34.722Z",
+    "updatedAt": "2026-06-16T02:57:34.722Z",
+    "customer": {
+      "fullName": "Daniel Jose Salazar Hernández",
+      "email": "danielsalazar1109@gmail.com",
+      "phone": "12366387673",
+      "addressLine1": "17 Erskine Lane",
+      "city": "Victoria",
+      "region": "BC",
+      "postalCode": "V8Z 1R7",
+      "country": "CO"
+    },
+    "items": [
+      {
+        "slug": "ivory-medium-bag",
+        "name": "Ivory Wayuu Medium Bag",
+        "quantity": 1,
+        "unitAmountCOP": 62.16
+      }
+    ],
+    "currency": "cop",
+    "amountTotalCOP": 62.16
+  },
+  {
+    "id": "4fa2bd3c-b067-4342-8845-b7f7efdc9bbd",
+    "status": "paid",
+    "createdAt": "2026-06-16T02:46:26.198Z",
+    "updatedAt": "2026-06-16T02:47:01.923Z",
+    "customer": {
+      "fullName": "Daniel Jose Salazar Hernández",
+      "email": "danielsalazar1109@gmail.com",
+      "phone": "12366387673",
+      "addressLine1": "17 Erskine Lane",
+      "city": "Victoria",
+      "region": "BC",
+      "postalCode": "V8Z 1R7",
+      "country": "CO"
+    },
+    "items": [
+      {
+        "slug": "turquoise-medium-bag",
+        "name": "Turquoise Wayuu Medium Bag",
+        "quantity": 1,
+        "unitAmountCOP": 279000
+      }
+    ],
+    "currency": "cop",
+    "amountTotalCOP": 279000,
+    "stripeSessionId": "cs_test_a1fge6PxTxRiXfuXurR3aetzoMalkKUyLgEVK5nUaNzyhu6xYNTFcH3f6w"
+  },
+  {
+    "id": "da170a03-5b02-4c53-b7e8-176575232bd3",
+    "status": "draft",
+    "createdAt": "2026-06-16T02:41:43.838Z",
+    "updatedAt": "2026-06-16T02:41:43.838Z",
+    "customer": {
+      "fullName": "Daniel Jose Salazar Hernández",
+      "email": "danielsalazar1109@gmail.com",
+      "phone": "12366387673",
+      "addressLine1": "17 Erskine Lane",
+      "addressLine2": "516",
+      "city": "Victoria",
+      "region": "BC",
+      "postalCode": "V8Z 1R7",
+      "country": "CO"
+    },
+    "items": [
+      {
+        "slug": "turquoise-medium-bag",
+        "name": "Turquoise Wayuu Medium Bag",
+        "quantity": 1,
+        "unitAmountCOP": 279000
+      }
+    ],
+    "currency": "cop",
+    "amountTotalCOP": 279000
+  }
+]

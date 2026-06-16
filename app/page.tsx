@@ -61,7 +61,7 @@ export default function HomePage() {
                 </div>
                 <div className="rounded-2xl border border-border bg-white/60 p-4 text-sm dark:bg-black/30">
                   <p className="font-semibold">Payments</p>
-                  <p className="mt-1 text-foreground/70">E-transfer or cash</p>
+                  <p className="mt-1 text-foreground/70">Card (Stripe)</p>
                 </div>
                 <div className="rounded-2xl border border-border bg-white/60 p-4 text-sm dark:bg-black/30">
                   <p className="font-semibold">Craftsmanship</p>
@@ -144,11 +144,13 @@ export default function HomePage() {
             </div>
 
             <div className="rounded-3xl border border-border bg-background p-6 shadow-sm">
-              <div className="aspect-[16/10] rounded-2xl bg-[linear-gradient(135deg,color-mix(in_oklab,var(--brand)_22%,transparent),transparent_40%),radial-gradient(circle_at_60%_40%,color-mix(in_oklab,var(--brand-2)_25%,transparent),transparent_55%)]" />
-              <p className="mt-4 text-sm text-foreground/70">
-                Add a real photo here: the artisan, the process, or a scene from
-                La Guajira.
-              </p>
+              <Image
+                src="/images/wayuu.jpg"
+                alt="Wayuu bag"
+                width={800}
+                height={600}
+                className="h-full w-full object-cover"
+              />
             </div>
           </div>
         </div>
