@@ -7,28 +7,28 @@ export function Footer() {
         <div className="max-w-md">
           <p className="text-base font-semibold tracking-tight">Wayuu</p>
           <p className="mt-2 text-sm text-foreground/70">
-            Template de e‑commerce para mochilas Wayuu. Artesanía colombiana,
-            diseño contemporáneo y compra simple.
+            E-commerce template for Wayuu bags. Colombian craftsmanship,
+            contemporary design, and a simple checkout.
           </p>
         </div>
 
         <div className="grid grid-cols-2 gap-10">
           <div>
-            <p className="text-sm font-semibold">Explorar</p>
+            <p className="text-sm font-semibold">Explore</p>
             <ul className="mt-3 space-y-2 text-sm text-foreground/70">
               <li>
                 <Link href="/#productos" className="hover:text-foreground">
-                  Productos
+                  Products
                 </Link>
               </li>
               <li>
                 <Link href="/#historia" className="hover:text-foreground">
-                  Historia
+                  Story
                 </Link>
               </li>
               <li>
                 <Link href="/carrito" className="hover:text-foreground">
-                  Carrito
+                  Cart
                 </Link>
               </li>
             </ul>
@@ -36,9 +36,9 @@ export function Footer() {
           <div>
             <p className="text-sm font-semibold">Info</p>
             <ul className="mt-3 space-y-2 text-sm text-foreground/70">
-              <li>Envíos a Colombia (demo)</li>
-              <li>Pagos (demo)</li>
-              <li>Soporte: hola@wayuu.com</li>
+              <li>Shipping (demo)</li>
+              <li>Payments (demo)</li>
+              <li>Support: hola@wayuu.com</li>
             </ul>
           </div>
         </div>
@@ -46,7 +46,7 @@ export function Footer() {
 
       <div className="border-t border-border">
         <div className="mx-auto w-full max-w-6xl px-6 py-6 text-xs text-foreground/70">
-          © {new Date().getFullYear()} Wayuu. Hecho para mostrar una plantilla.
+          © {new Date().getFullYear()} Wayuu. Built to showcase a template.
         </div>
       </div>
     </footer>

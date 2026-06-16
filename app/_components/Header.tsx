@@ -37,7 +37,7 @@ export function Header() {
             href="/carrito"
             className="inline-flex items-center rounded-full border border-border bg-white/60 px-4 py-2 text-sm font-semibold text-foreground shadow-sm transition hover:bg-white dark:bg-black/30"
           >
-            Carrito
+            Cart
             <Badge value={totalItems} />
           </Link>
         </div>

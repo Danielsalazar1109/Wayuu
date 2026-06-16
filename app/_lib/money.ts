@@ -1,7 +1,7 @@
-export function formatCOP(valueCOP: number): string {
-  return new Intl.NumberFormat("es-CO", {
+export function formatCAD(value: number): string {
+  return new Intl.NumberFormat("en-CA", {
     style: "currency",
-    currency: "COP",
+    currency: "CAD",
     maximumFractionDigits: 0,
-  }).format(valueCOP);
+  }).format(value);
 }

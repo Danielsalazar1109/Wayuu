@@ -26,7 +26,7 @@ export function AddToCartButton({ slug }: { slug: string }) {
           {
             slug: product.slug,
             name: product.name,
-            priceCOP: product.priceCOP,
+            priceCOP: product.priceCAD,
             image: product.image,
           },
           1
@@ -34,7 +34,7 @@ export function AddToCartButton({ slug }: { slug: string }) {
         setLoading(false);
       }}
     >
-      {loading ? "Añadiendo al carrito..." : "Añadir al carrito"}
+      {loading ? "Adding..." : "Add to cart"}
     </button>
   )
 }

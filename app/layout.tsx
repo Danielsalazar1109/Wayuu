@@ -19,11 +19,11 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Wayuu — Mochilas artesanales",
+    default: "Wayuu — Handwoven bags",
     template: "%s — Wayuu",
   },
   description:
-    "Mochilas Wayuu hechas a mano en Colombia. Diseños inspirados en La Guajira, colores vivos y tradición artesanal.",
+    "Handwoven Wayuu bags made in Colombia. Inspired by La Guajira, vibrant colorways, and living tradition.",
 };
 
 export default function RootLayout({

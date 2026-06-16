@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 import type { Product } from "../_data/products";
-import { formatCOP } from "../_lib/money";
+import { formatCAD } from "../_lib/money";
 
 export function ProductCard({ product }: { product: Product }) {
   return (
@@ -19,7 +19,7 @@ export function ProductCard({ product }: { product: Product }) {
       <div className="mt-4">
         <p className="text-base font-semibold tracking-tight">{product.name}</p>
         <p className="mt-1 text-sm text-foreground/70">{product.shortDescription}</p>
-        <p className="mt-3 text-sm font-semibold">{formatCOP(product.priceCOP)}</p>
+        <p className="mt-3 text-sm font-semibold">{formatCAD(product.priceCAD)}</p>
         <p className="mt-1 text-xs text-foreground/60">{product.size}</p>
       </div>
     </div>
